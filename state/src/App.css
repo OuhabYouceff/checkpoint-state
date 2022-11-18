@@ -1,0 +1,48 @@
+.App {
+  /* text-align: center; */
+background-color:cornsilk;
+}
+.title
+{
+  font-family: 'Times New Roman', Times, serif;
+  width: 0px;
+  margin-left: 30px;
+  font-size: 40px;
+}
+.title2
+{
+  font-family: 'Times New Roman', Times, serif;
+  width: 0px;
+  margin-left: 30px;
+  font-size: 30px;
+}
+.photo
+{
+  display: flex;
+  align-items: center;
+  margin-top: auto;
+  margin-left: 30px;
+  border-radius: 20px;
+}
+.nothing
+{
+  text-align: center;
+}
+.bshow
+{
+  font-size: 30px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 550px;
+  font-family:'Times New Roman', Times, serif;
+  background-color: burlywood;
+}
+.bshow :hover{
+  background-color: antiquewhite;
+}
+.something
+{
+  margin-top: 5px;
+  margin-left: 0px;
+}
